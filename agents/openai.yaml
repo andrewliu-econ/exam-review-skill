@@ -1,0 +1,7 @@
+interface:
+  display_name: "Exam Review"
+  short_description: "Build evidence-grounded exam review packs from course sources"
+  brand_color: "#1F6F78"
+  default_prompt: "Use $exam-review to turn these past papers and notes into a prioritized review pack with answer templates."
+policy:
+  allow_implicit_invocation: true
